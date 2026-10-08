@@ -1,7 +1,7 @@
 # Ganesh Kumar Manchi Kanti
 
-**Senior SRE & IT Delivery Leader** | Enterprise Resilience (Banking & Healthcare) | Application Health & Observability Strategy
-Mississauga, Ontario · 15+ years at Cognizant · 9 years in SRE leadership
+**Senior SRE & IT Delivery Leader** | Enterprise Resilience (Banking & Healthcare) | Application Health & Observability Strategy  
+Mississauga, Ontario · 15+ years in enterprise IT · 9 years in SRE leadership
 
 I direct reliability and observability strategy for high-volume digital banking journeys serving 50M+ cardholders, moving teams from reactive firefighting to proactive, metric-based reliability.
 
